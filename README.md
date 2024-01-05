@@ -12,4 +12,4 @@ We present a generative self-supervised meta-learning framework to implement mul
 
 
 ## Acknowledgement
-Thanks [DINOv2](https://github.com/facebookresearch/dinov2), [SAM](https://github.com/facebookresearch/segment-anything), [Matcher](https://github.com/aim-uofa/Matcher). for serving as building blocks of GBMSeg.
+Thanks [Cycle-Gan](https://github.com/junyanz/CycleGAN), [MoCov3](https://github.com/CupidJay/MoCov3-pytorch), [MAML](https://github.com/dragen1860/MAML-Pytorch), [Unet]([https://github.com/aim-uofa/Matcher](https://github.com/milesial/Pytorch-UNet)). for serving as building blocks of MSMTSeg.
