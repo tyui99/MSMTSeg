@@ -10,6 +10,8 @@ We present a generative self-supervised meta-learning framework to implement mul
 </p>
 
 
+## Data available
+we have initiated a data access review process. Interested parties can now request permission to access the data by sending an email to the [email address](wuyongfei@tyut.edu.cn).
 
 ## Acknowledgement
 Thanks [Cycle-Gan](https://github.com/junyanz/CycleGAN), [MoCov3](https://github.com/CupidJay/MoCov3-pytorch), [MAML](https://github.com/dragen1860/MAML-Pytorch), [Unet](https://github.com/milesial/Pytorch-UNet). for serving as building blocks of MSMTSeg.
