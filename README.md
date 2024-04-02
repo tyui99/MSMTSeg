@@ -6,7 +6,7 @@
 We present a generative self-supervised meta-learning framework to implement multi-stained multi-tissue segmentation, namely MSMTSeg, from renal biopsy WSIs using only a few annotated samples for each stain domain. MSMTSeg consists of multiple stain transform models for achieving inter-translation between multiple stain domains, a self-supervision module to obtain a pre-trained weight with individual information for each stain, and a meta-learning strategy combined with generated virtual data and the pre-trained weights to learn the common information across multiple stain domains and improve segmentation performance. 
 
 <p align="center">
-<img width="800" alt="ablation" src="img/eg_abalation.png">
+<img width="800" alt="ablation" src="img/workflow.png">
 </p>
 
 ## To do
